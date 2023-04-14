@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Sérgio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sricardov)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **sricardov/sricardov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
