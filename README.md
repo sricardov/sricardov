@@ -1,7 +1,5 @@
-<div style="justify-content: center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sricardov&count_private=true&show_icons=true&theme=dark"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sricardov&hide_progress=true"/>
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sricardov&count_private=true&show_icons=true&theme=dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sricardov&count_private=true&hide_progress=true&theme=dark"/>
 
 <!--
 **sricardov/sricardov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
